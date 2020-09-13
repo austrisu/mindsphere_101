@@ -1,0 +1,61 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_6_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="602" width="802" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#000000" id="svg_56" height="13.0137" width="237.65863" y="362.5018" x="438.63799" stroke-width="2" fill="#ffff00"/>
+  <rect stroke="#000" id="svg_34" height="39.49592" width="274.29688" y="444.71037" x="405.71554" stroke-opacity="null" stroke-width="2" fill="#999999"/>
+  <rect stroke="#000" id="svg_30" height="39.49592" width="265.6762" y="203.68521" x="195.97216" stroke-opacity="null" stroke-width="2" fill="#999999"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="233.06726" x="202.09693" stroke-width="0" stroke="#000" fill="#000000">Pump speed</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_3" y="233.06726" x="355.18343" stroke-width="0" stroke="#000" fill="#000000">123</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_4" y="474.86826" x="415.07096" stroke-width="0" stroke="#000" fill="#000000">Flow speed</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_5" y="474.86826" x="560.76062" stroke-width="0" stroke="#000" fill="#000000">456</text>
+  <rect rx="10" filter="url(#svg_6_blur)" stroke="#000" id="svg_6" height="128" width="84" y="262.05" x="79.75" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#25aaaa"/>
+  <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_7" y2="390.28917" x2="88.4292" y1="439.72256" x1="88.4292" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none"/>
+  <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_8" y2="389.40421" x2="152.58847" y1="438.8376" x1="152.58847" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none"/>
+  <rect id="svg_9" height="104.42475" width="16.81415" y="273.98223" x="132.74333" stroke-opacity="null" stroke-width="2" stroke="#000" fill="#ffffff"/>
+  <rect stroke="#ffff00" id="svg_10" height="68.14157" width="13.27433" y="308.49549" x="134.51324" stroke-width="2" fill="#ffff00"/>
+  <rect stroke="#000000" id="svg_11" height="13.0137" width="125.34246" y="364.24658" x="163.63015" stroke-width="2" fill="#ffff00"/>
+  <rect stroke="#000000" id="svg_19" height="13.0137" width="36.59764" y="363.34567" x="317.68451" stroke-width="2" fill="#ffff00"/>
+  <ellipse ry="17.46575" rx="17.46575" id="svg_13" cy="369.38356" cx="303.69864" stroke-width="2" stroke="#000000" fill="#0000bf"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_14" y2="334.05698" x2="303.35618" y1="351.91781" x1="303.35618" stroke-opacity="null" stroke-width="2" stroke="#000000" fill="none"/>
+  <rect stroke="#000000" id="svg_16" height="8.21918" width="34" y="325.20548" x="286.23289" fill-opacity="null" stroke-opacity="null" stroke-width="2" fill="#0000bf"/>
+  <rect stroke="#000000" id="svg_18" height="8.21918" width="10.12553" y="325.28872" x="298.44193" fill-opacity="null" stroke-opacity="null" stroke-width="2" fill="#0000bf"/>
+  <rect stroke="#000000" id="svg_22" height="13.0137" width="19.23676" y="362.5018" x="395.67173" stroke-width="2" fill="#ffff00"/>
+  <text font-style="italic" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_32" y="232.21557" x="412.48581" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">rpm</text>
+  <text font-style="italic" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_33" y="474.86826" x="620.24337" stroke-width="0" stroke="#000" fill="#000000">l/min</text>
+  <g id="svg_35">
+   <rect rx="4" id="svg_20" height="26.12618" width="36.93701" y="354.30875" x="346.58455" stroke-width="2" stroke="#000000" fill="#0000bf"/>
+   <rect rx="4" stroke="#000000" id="svg_21" height="47.76119" width="13.93035" y="342.48756" x="384.27861" stroke-opacity="null" stroke-width="2" fill="#0000bf"/>
+  </g>
+  <g id="svg_36">
+   <rect stroke="#000000" id="svg_23" height="54.85143" width="15.61156" y="330.62752" x="426.91287" stroke-width="2" fill="#0000bf"/>
+   <rect stroke="#000000" id="svg_24" height="28.69152" width="15.61156" y="356.78742" x="410.87938" stroke-width="2" fill="#0000bf"/>
+  </g>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_37" y2="242.30929" x2="344.5381" y1="361.54084" x1="369.92289" fill-opacity="null" stroke-width="2" stroke="#000000" fill="none"/>
+  <ellipse ry="3.10343" rx="3.10343" id="svg_38" cy="361.65319" cx="369.86005" stroke-opacity="null" stroke-width="2" stroke="#000" fill="#999999"/>
+  <line stroke="#000000" stroke-linecap="null" stroke-linejoin="null" id="svg_39" y2="374.86786" x2="436.01127" y1="444.28891" x1="518.76056" fill-opacity="null" stroke-width="2" fill="none"/>
+  <ellipse ry="3.10343" rx="3.10343" id="svg_40" cy="374.75023" cx="436.21883" stroke-opacity="null" stroke-width="2" stroke="#000" fill="#999999"/>
+  <rect stroke="#000" id="svg_41" height="39.49592" width="235.83531" y="462.97961" x="140.3307" stroke-opacity="null" stroke-width="2" fill="#999999"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_42" y="491.21443" x="150.64768" stroke-width="0" stroke="#000" fill="#000000">Valve Position</text>
+  <text font-weight="bold" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_43" y="492.17597" x="318.91703" stroke-width="0" fill="#000000">ON</text>
+  <line stroke="#000000" stroke-linecap="null" stroke-linejoin="null" id="svg_48" y2="374.03168" x2="301.44218" y1="462.49326" x1="247.59602" fill-opacity="null" stroke-opacity="null" stroke-width="2" fill="none"/>
+  <ellipse ry="3.10343" rx="3.10343" id="svg_49" cy="373.50511" cx="302.0432" stroke-opacity="null" stroke-width="2" stroke="#000" fill="#999999"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_51" y="353.43983" x="564.42143" stroke-width="0" stroke="#000" fill="#000000">To filling</text>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_52" y2="350.38919" x2="677.2587" y1="350.38919" x1="640.19453" fill-opacity="null" stroke-opacity="null" stroke-width="2" stroke="#000000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_53" y2="340.89628" x2="667.92738" y1="350.46858" x1="677.49968" fill-opacity="null" stroke-opacity="null" stroke-width="2" stroke="#000000" fill="none"/>
+  <line transform="rotate(-90 673.1041259765625,355.0574340820312) " stroke-linecap="null" stroke-linejoin="null" id="svg_54" y2="350.27128" x2="668.318" y1="359.84358" x1="677.8903" fill-opacity="null" stroke-opacity="null" stroke-width="2" stroke="#000000" fill="none"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_55" y="250.31452" x="82.38873" stroke-width="0" stroke="#000" fill="#000000">Beer tank</text>
+ </g>
+</svg>
